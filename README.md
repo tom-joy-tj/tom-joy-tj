@@ -39,7 +39,7 @@
 
 - 🌐 [Portfolio](https://www.tomjoy.dev)
 - 💼 [LinkedIn](https://linkedin.com/in/tjoy/)
-- 📄 [Download CV](https://github.com/tom-joy-tj/tom-joy-tj/raw/main/Tom-Joy-CV.pdf))
+- 📄 [Download CV](https://github.com/tom-joy-tj/tom-joy-tj/raw/main/Tom-Joy-CV.docx)
 
 ---
 

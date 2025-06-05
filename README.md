@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey, I'm Tom Joy 👋</h1>
 
-<p align="center">Junior FullStack JavaScript Developer | React Enthusiast | Passionate about clean UI & tasty UX</p>
+<p align="center">Junior FullStack JavaScript Developer | React Enthusiast | Passionate about clean UI</p>
 
 ---
 

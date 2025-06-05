@@ -3,7 +3,7 @@
 
 <h1 align="center">Hey, I'm Tom Joy 👋</h1>
 
-<p align="center">Junior FullStack JavaScript Developer | React Enthusiast | Passionate about clean UI</p>
+<p align="center">FullStack JavaScript Developer | React Enthusiast | Passionate about clean UI</p>
 
 ---
 
@@ -38,26 +38,8 @@
 ## 📫 Contact Me
 
 - 🌐 [Portfolio](https://www.tomjoy.dev)
-- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+- 💼 [LinkedIn](https://linkedin.com/in/tjoy/)
 - 📄 [Download CV](https://your-cv-link.pdf)
-
----
-
-## ✨ Fun Facts
-
-- 🧊 Built an app to stop food from being forgotten in the freezer
-- 🧩 Love solving puzzles — coding is just the grown-up version
-- 🐶 Walks, weights, and React are my weekly therapy
-
----
-
-## 📌 Featured Projects
-
-You can pin these in your GitHub profile manually after you push this README.
-
-- 🧊 [Fridge Friends](https://github.com/kwiatek-ctrl/Fridge-Friends)
-- 💻 [tomjoy.dev](https://github.com/tom-joy-tj/tomjoy.dev)
-- 🏎️ [Max Joy Racing Blog](https://github.com/tom-joy-tj/max-joy-racing)
 
 ---
 

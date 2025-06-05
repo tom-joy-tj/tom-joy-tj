@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Tom Joy
+I'm a junior fullstack JavaScript developer passionate about building modern web and mobile apps.
 
-<!--
-**tom-joy-tj/tom-joy-tj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+- React / React Native
+- Node.js / Express
+- MongoDB / PostgreSQL
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- [Fridge Friends](https://github.com/your-repo)
+- [TomJoy.dev](https://www.tomjoy.dev)
+- [NC News](https://www.github.com/tom-joy-tj/nc-news)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- [LinkedIn](https://linkedin.com/in/yourprofile)
+- [Portfolio](https://www.tomjoy.dev)

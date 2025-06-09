@@ -3,14 +3,13 @@
 
 <h1 align="center">Hey, I'm Tom Joy 👋</h1>
 
-<p align="center">FullStack JavaScript Developer | React Enthusiast | Passionate about clean UI</p>
+<p align="center">Junior FullStack JavaScript Developer | React Enthusiast | Passionate about clean UI</p>
 
 ---
 
 ## 🚀 About Me
 
 - 🧠 Learning: React Native, TypeScript, and building mobile-first apps  
-- 📱 Creator of **Fridge Friends** — a smart pantry tracker & recipe helper  
 - 🔧 Currently building my portfolio at [tomjoy.dev](https://www.tomjoy.dev)  
 - 🎯 Mission: Write clean code, ship useful features, and collaborate with great people  
 
